@@ -19,4 +19,4 @@ Couleur des boutons et items : #dd5347
 Couleur de fond : #fafafa
 Le bolder : 300 (font-weight)
 
-Lien de déploiement : https://bastienu.github.io/etude_cas_Gmail/index.html
+Lien de déploiement : [Le_projet](https://bastienu.github.io/etude_cas_Gmail/index.html)
